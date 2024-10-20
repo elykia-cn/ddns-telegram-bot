@@ -4,9 +4,6 @@
 
 一个用于接收 [ddns-go](https://github.com/jeessy2/ddns-go) 通知的 Telegram 机器人
 
-<img src="snapshot.png" width="375" />
-
-
 ## 更新
 
 https://github.com/wukibaka/ddns-telegram-bot
