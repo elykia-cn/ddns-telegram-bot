@@ -6,6 +6,11 @@
 
 <img src="snapshot.png" width="375" />
 
+
+## 更新
+
+https://github.com/wukibaka/ddns-telegram-bot
+
 ## 使用
 
 1. 打开并启用 [@DDNSGoBot](https://t.me/DDNSGoBot)
@@ -28,12 +33,6 @@
         "domains": "#{ipv6Domains}"
     }
 }
-
-```
-
-## 更新
-
-https://github.com/wukibaka/ddns-telegram-bot
 
 ```
 
