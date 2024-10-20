@@ -31,6 +31,12 @@
 
 ```
 
+## 更新
+
+https://github.com/wukibaka/ddns-telegram-bot
+
+```
+
 ## 感谢
 
 - [ddns-go](https://github.com/jeessy2/ddns-go)
